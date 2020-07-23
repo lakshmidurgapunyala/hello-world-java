@@ -5,6 +5,7 @@
  * modification, are permitted provided that the following conditions
  * are met:
  *
+ *
  *   - Redistributions of source code must retain the above copyright
  *     notice, this list of conditions and the following disclaimer.
  *
@@ -35,5 +36,7 @@
 public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("Hello, World");
+    System.out.println("Hello DevOps");
+    System.out.println("Hello lakshmi durga");
   }
 }
